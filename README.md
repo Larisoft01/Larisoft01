@@ -1,5 +1,11 @@
 ### Hi there 👋
+teste
 " O meu rival é a minha procastrinação"
+</div>
+<img width="680" src="https://github.com/Larisoft01/Larisoft01/blob/main/imagens/lucario.gif" alt="Welcome to my Github Profile" />
+<br />
+<br />
+</div>
 
  **-Larisoft**
 #### Sobre Mim
