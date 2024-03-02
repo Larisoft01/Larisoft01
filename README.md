@@ -26,7 +26,7 @@
 <img width= "90" src="https://img.pokemondb.net/sprites/black-white/anim/normal/luxray.gif" alt="Luxray" />
 <img width= "70" src="https://img.pokemondb.net/sprites/black-white/anim/normal/gastrodon-west.gif" alt="Gastrodon" />
 <img width= "60" src="https://img.pokemondb.net/sprites/black-white/anim/normal/umbreon.gif" alt="Umbreon" />
-<img width= "70" src="https://archives.bulbagarden.net/media/upload/d/d4/Spr_5b_334.png" alt ="Altaria" />
+<img height = "50px" width= "100" src="https://archives.bulbagarden.net/media/upload/d/d4/Spr_5b_334.png" alt ="Altaria" />
 
 </div>
 
