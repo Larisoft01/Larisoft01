@@ -2,7 +2,7 @@
 teste
 " O meu rival é a minha procastrinação"
 </div>
-<img width="95" src="https://img.pokemondb.net/sprites/black-white/anim/normal/lucario.gif" alt="lucario" />
+<img width="80" src="https://img.pokemondb.net/sprites/black-white/anim/normal/lucario.gif" alt="lucario" />
 <br />
 <br />
 </div>
