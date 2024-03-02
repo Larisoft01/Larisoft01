@@ -2,7 +2,7 @@
 teste
 " O meu rival é a minha procastrinação"
 </div>
-<img width="100" src="https://github.com/Larisoft01/Larisoft01/blob/main/imagens/lucario.gif" alt="lucario" />
+<img width="100" src="https://archives.bulbagarden.net/media/upload/3/36/Spr_5b_448.png" alt="lucario" />
 <br />
 <br />
 </div>
