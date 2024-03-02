@@ -1,16 +1,22 @@
 ### Hi there 👋
-teste
 " O meu rival é a minha procastrinação"
 
  **-Larisoft**
 
 #### Sobre Mim
- 
-  * Ela/Dela
-  * Engenharia de Computação - Instituto Mauá de Tecnologia
-  * Habilidades: Front-End, Java, Python, R e Matlab
-  * Idiomas: Português (Fluente), Inglês (B2 Level) e Espanhol (B1 Level)
-  * Hobbies: Jogar, Ler e Assistir TV
+</div>
+
+  ```md
+  Sobre Mim
+    Ela/Dela
+    Engenharia de Computação - Instituto Mauá de Tecnologia
+    Habilidades: Front-End, Java, Python, R e Matlab
+    Idiomas: Português (Fluente), Inglês (B2 Level) e Espanhol (B1 Level)
+    Hobbies: Jogar, Ler e Assistir TV
+  ```
+  <br />
+
+</div>
 
 </div>
 <br />
