@@ -25,7 +25,7 @@
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
 <img  width ="100" src="https://img.pokemondb.net/sprites/black-white/anim/normal/zoroark.gif" alt="Zoroark" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-<img  width ="50" src="https://img.pokemondb.net/sprites/black-white/anim/normal/umbreon.gif" alt="Umbreon" />
+<img  width ="60" src="https://img.pokemondb.net/sprites/black-white/anim/normal/umbreon.gif" alt="Umbreon" />
 </div>
 
   
