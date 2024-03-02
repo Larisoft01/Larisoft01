@@ -1,13 +1,9 @@
 ### Hi there 👋
 teste
 " O meu rival é a minha procastrinação"
-</div>
-<img width="70" src="https://img.pokemondb.net/sprites/black-white/anim/normal/lucario.gif" alt="lucario" />
-<br />
-<br />
-</div>
 
  **-Larisoft**
+ 
 #### Sobre Mim
  
   * Ela/Dela
@@ -15,6 +11,12 @@ teste
   * Habilidades: Front-End, Java, Python, R e Matlab
   * Idiomas: Português (Fluente), Inglês (B2 Level) e Espanhol (B1 Level)
   * Hobbies: Jogar, Ler e Assistir TV
+
+</div>
+<img width="70" src="https://img.pokemondb.net/sprites/black-white/anim/normal/lucario.gif" alt="lucario" />
+<br />
+<br />
+</div>
 
   
 <!--
