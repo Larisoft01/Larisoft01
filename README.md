@@ -3,7 +3,7 @@ teste
 " O meu rival é a minha procastrinação"
 
  **-Larisoft**
- 
+
 #### Sobre Mim
  
   * Ela/Dela
@@ -13,8 +13,8 @@ teste
   * Hobbies: Jogar, Ler e Assistir TV
 
 </div>
-<img width="70" src="https://img.pokemondb.net/sprites/black-white/anim/normal/lucario.gif" alt="lucario" />
 <br />
+<img width="70" src="https://img.pokemondb.net/sprites/black-white/anim/normal/lucario.gif" alt="lucario" />
 <br />
 </div>
 
