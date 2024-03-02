@@ -22,9 +22,11 @@
 <div align="center">
 <br />
 <img width= "70" src="https://img.pokemondb.net/sprites/black-white/anim/normal/lucario.gif" alt="lucario" />
-<img width= "90" src="https://img.pokemondb.net/sprites/black-white/anim/normal/luxray.gif" alt="Luxray" />
-<img width= "60" src="https://img.pokemondb.net/sprites/black-white/anim/normal/umbreon.gif" alt="Umbreon" />
 <img width= "100" src="https://img.pokemondb.net/sprites/black-white/anim/normal/torterra.gif" alt="Torterra" />
+<img width= "90" src="https://img.pokemondb.net/sprites/black-white/anim/normal/luxray.gif" alt="Luxray" />
+<img width= "90" src="https://img.pokemondb.net/sprites/black-white/anim/shiny/gastrodon-west.gif" alt="Gastrodon" />
+<img width= "60" src="https://img.pokemondb.net/sprites/black-white/anim/normal/umbreon.gif" alt="Umbreon" />
+
 
 
 </div>
