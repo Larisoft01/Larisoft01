@@ -16,7 +16,7 @@
   ```
   <br />
 
-| TRAINER CARD |  |
+| TRAINER CARD |  
 | --- | --- |
 | ID No. | 319701 |
 | Name | Serebii |
