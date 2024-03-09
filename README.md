@@ -15,7 +15,17 @@
     Hobbies: Jogar, Ler e Assistir TV
   ```
   <br />
-
+| TRAINER CARD |  |
+| --- | --- |
+| ID No. | 319701 |
+| Name | Serebii |
+| Money | $559,708 |
+| Pokédex | 291 Pokémon |
+| Play time | 49:31 |
+| Adventure started | 11/18/2021 |
+| Hall of Fame debut | 11/19/2021 |
+|  |  |
+| A Flip to Back | Y View Badges R Rotate B Back |
 </div>
 
 
