@@ -15,8 +15,16 @@
     Hobbies: Jogar, Ler e Assistir TV
   ```
   <br />
+
+1
 | TRAINER CARD |  |
-| --- | --- |
+| 
+2
+|
+--- 
+| 
+--- 
+|
 | ID No. | 319701 |
 | Name | Serebii |
 | Money | $559,708 |
@@ -26,7 +34,6 @@
 | Hall of Fame debut | 11/19/2021 |
 |  |  |
 | A Flip to Back | Y View Badges R Rotate B Back |
-</div>
 
 
 <div align="center">
