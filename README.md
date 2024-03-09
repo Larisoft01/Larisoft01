@@ -16,67 +16,17 @@
   ```
   <br />
 
-1
-| TRAINER CARD |  
-| 
-2
-|
---- 
-| 
---- 
-|
-3
-| 
- ID No. 
-| 
- 319701
-|
-4
-| 
- Name 
-|
- Serebii 
-|
-5
-| 
- Money 
-| 
- $559,708 
-|
-6
-| 
- Pokédex 
-| 
- 291 Pokémon 
-|
-7
-| 
- Play time 
-| 
- 49:31 
-|
-8
-|
- Adventure started 
-| 
- 11/18/2021 
-|
-9
-| 
- Hall of Fame debut 
-| 
-11/19/2021 
-|
-10
-|  
-|  
-|
-11
-| 
- A Flip to Back
-| 
- Y View Badges R Rotate B Back
-|
+| TRAINER CARD |  |
+| --- | --- |
+| ID No. | 319701 |
+| Name | Serebii |
+| Money | $559,708 |
+| Pokédex | 291 Pokémon |
+| Play time | 49:31 |
+| Adventure started | 11/18/2021 |
+| Hall of Fame debut | 11/19/2021 |
+|  |  |
+| A Flip to Back | Y View Badges R Rotate B Back |
 
 
 <div align="center">
