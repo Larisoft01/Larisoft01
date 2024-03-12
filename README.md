@@ -54,7 +54,7 @@
 
 <div align="center">
 
-<img height="40px" src="https://raw.githubusercontent.com/Larisoft01/Larisoft01/main/imagens/github.png"  alt="GitHub" />
+<img height="400px" src="https://raw.githubusercontent.com/Larisoft01/Larisoft01/main/imagens/github.png"  alt="GitHub" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
 
   
