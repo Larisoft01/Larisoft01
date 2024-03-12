@@ -1,8 +1,4 @@
 
-" O meu rival é a minha procastrinação"
-
- **-Larisoft**
- 
 <div align="left">
 
 <img height="300px"  src="https://raw.githubusercontent.com/Larisoft01/Larisoft01/main/imagens/github.png"  alt="GitHub" />
