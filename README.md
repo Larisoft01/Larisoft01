@@ -5,7 +5,7 @@
  
 <div align="left">
 
-<img height="70px"  src="https://raw.githubusercontent.com/Larisoft01/Larisoft01/main/imagens/github.png"  alt="GitHub" />
+<img height="300px"  src="https://raw.githubusercontent.com/Larisoft01/Larisoft01/main/imagens/github.png"  alt="GitHub" />
 
 </div>
 
