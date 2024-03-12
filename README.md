@@ -1,4 +1,4 @@
-### Hi there 👋
+
 " O meu rival é a minha procastrinação"
 
  **-Larisoft**
@@ -50,6 +50,18 @@
 <a href="https://github.com/Larisoft01">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Larisoft01&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larisoft01&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+</div>
+
+<div align="center">
+
+<img height="40px" src="https://raw.githubusercontent.com/Larisoft01/Larisoft01/main/imagens/github.gif"  alt="GitHub" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+
+  
+<br />
+<br />
+<br />
+
 </div>
 
 <!--
