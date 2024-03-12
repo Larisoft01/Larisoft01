@@ -23,7 +23,7 @@
 <img width= "60" src="https://img.pokemondb.net/sprites/black-white/anim/normal/umbreon.gif" alt="Umbreon" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
 <img width= "70" src="https://img.pokemondb.net/sprites/black-white/anim/normal/altaria.gif" alt ="Altaria" />
-
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
 </div>
 
 <div>
