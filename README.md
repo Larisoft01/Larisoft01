@@ -39,17 +39,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larisoft01&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
-<div align="center">
-
-<img height="800px"  src="https://raw.githubusercontent.com/Larisoft01/Larisoft01/main/imagens/github.png"  alt="GitHub" />
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-
-  
-<br />
-<br />
-<br />
-
-</div>
 
 <!--
 **Larisoft01/Larisoft01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
