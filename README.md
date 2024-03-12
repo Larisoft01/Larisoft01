@@ -10,7 +10,7 @@
 </div>
 
 
-<div align="center">
+<div>
 <br />
 <img width= "70" src="https://img.pokemondb.net/sprites/black-white/anim/normal/lucario.gif" alt="lucario" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
