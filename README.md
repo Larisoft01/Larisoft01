@@ -8,11 +8,6 @@
 <img height="800px"  src="https://raw.githubusercontent.com/Larisoft01/Larisoft01/main/imagens/github.png"  alt="GitHub" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
 
-  
-<br />
-<br />
-<br />
-
 </div>
 
 
