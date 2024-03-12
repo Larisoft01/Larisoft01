@@ -2,31 +2,18 @@
 " O meu rival é a minha procastrinação"
 
  **-Larisoft**
+ 
+<div>
 
+<img height="800px"  src="https://raw.githubusercontent.com/Larisoft01/Larisoft01/main/imagens/github.png"  alt="GitHub" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+
+  
+<br />
+<br />
+<br />
 
 </div>
-
-  ```md
-  Sobre Mim
-    Ela/Dela
-    Engenharia de Computação - Instituto Mauá de Tecnologia
-    Habilidades: Front-End, Java, Python, R e Matlab
-    Idiomas: Português (Fluente), Inglês (B2 Level) e Espanhol (B1 Level)
-    Hobbies: Jogar, Ler e Assistir TV
-  ```
-  <br />
-
-| TRAINER CARD |  |
-| --- | --- |
-| ID No. | 319701 |
-| Name | Serebii |
-| Money | $559,708 |
-| Pokédex | 291 Pokémon |
-| Play time | 49:31 |
-| Adventure started | 11/18/2021 |
-| Hall of Fame debut | 11/19/2021 |
-|  |  |
-| A Flip to Back | Y View Badges R Rotate B Back |
 
 
 <div align="center">
@@ -54,7 +41,7 @@
 
 <div align="center">
 
-<img height="800px" width= "4000" src="https://raw.githubusercontent.com/Larisoft01/Larisoft01/main/imagens/github.png"  alt="GitHub" />
+<img height="800px"  src="https://raw.githubusercontent.com/Larisoft01/Larisoft01/main/imagens/github.png"  alt="GitHub" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
 
   
