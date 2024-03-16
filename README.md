@@ -1,7 +1,7 @@
 
 <div align="left">
 
-<img height="400px"  src="https://raw.githubusercontent.com/Larisoft01/Larisoft01/main/imagens/github2.PNG"  alt="GitHub" />
+<img height="350px"  src="https://raw.githubusercontent.com/Larisoft01/Larisoft01/main/imagens/github2.PNG"  alt="GitHub" />
 
 </div>
 
